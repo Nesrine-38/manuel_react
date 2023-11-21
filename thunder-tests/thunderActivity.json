@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "26abad80-8c41-49f4-b980-140013d71ee9",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://127.0.0.1:8000/api/users",
+        "url": "http://127.0.0.1:8000/api/users",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-11-21T19:21:34.791Z",
+        "modified": "2023-11-21T19:21:34.791Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    }
+]
